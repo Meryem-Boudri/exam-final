@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/exam-final.iml" filepath="$PROJECT_DIR$/exam-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../examen-blanc-distributed-systems/secure-front-angular/secure-front-angular.iml" filepath="$PROJECT_DIR$/../examen-blanc-distributed-systems/secure-front-angular/secure-front-angular.iml" />
     </modules>
   </component>
 </project>
